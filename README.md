@@ -45,4 +45,6 @@ There were 3 visual pages presented. The visuals used consisted of cards, 100% s
 
 ![](Visual_1.jpg)
 
+![](Visual_2.jpg)
 
+![](Visual_3.jpg)
