@@ -43,6 +43,6 @@ For this analysis only 1 table was used that contained all the necessary data ne
 
 There were 3 visual pages presented. The visuals used consisted of cards, 100% stacked bar and clustered column chart, pie charts, Line charts ,key inflencers and different slicers. The slicers used are to make the dashboard an interactive one so as to answer different business problems based on the data presented.
 
-
+![](Visual_1.jpg)
 
 
