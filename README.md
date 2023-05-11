@@ -69,7 +69,7 @@ There were 3 visual pages presented. The visuals used consisted of cards, 100% s
 
 # Conclusion
 
-To all new and upcoming data analysts, I hope you find these useful. Don't forget to follow me on my ### [Github](https://github.com/Babzyadamu/) and ### [Linkedin](https://www.linkedin.com/in/ahmed-adamu-0b63b9a5)
+To all new and upcoming data analysts, I hope you find these useful. Don't forget to follow me on my ###[Github](https://github.com/Babzyadamu/) and ###[Linkedin](https://www.linkedin.com/in/ahmed-adamu-0b63b9a5)
 
 
 
