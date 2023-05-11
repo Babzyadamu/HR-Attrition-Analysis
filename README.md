@@ -13,3 +13,11 @@ The aim of this analysis is to answer the following Business related questions
 -  Identify key reasons why attrition rate is high within the organization?
 -  Produce other key insights that will be useful to the HR Manager?
  
+# Skills & Concept used:
+
+- Use of SQL import & Export wizard
+- Creating SQL Views
+- Writing SQL Queries
+- Adding new columns to the existing table using conditional statements in SQL
+- DAX Measures
+- Data Visualization & Design (Using appropriate visuals to send appropriate message to stakeholders)
