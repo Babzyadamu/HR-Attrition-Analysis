@@ -24,3 +24,10 @@ The aim of this analysis is to answer the following Business related questions
 - GDPR (Data Protection)
 - DAX Measures
 - Data Visualization & Design (Using appropriate visuals to send appropriate message to stakeholders)
+
+# Data Source:
+
+An SQL View was created from MS SQL server database.
+
+![](SQL_View.jpg)
+
