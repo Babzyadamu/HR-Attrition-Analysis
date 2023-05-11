@@ -19,5 +19,8 @@ The aim of this analysis is to answer the following Business related questions
 - Creating SQL Views
 - Writing SQL Queries
 - Adding new columns to the existing table using conditional statements in SQL
+- ETL
+- Data Architecture and Optimization
+- GDPR (Data Protection)
 - DAX Measures
 - Data Visualization & Design (Using appropriate visuals to send appropriate message to stakeholders)
